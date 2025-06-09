@@ -1,4 +1,4 @@
-package com.alfa;
+package ru.dimker;
 
 import org.apache.spark.sql.Dataset;
 import org.apache.spark.sql.Row;

@@ -1,4 +1,4 @@
-// package com.alfa;
+// package ru.dimker;
 
 // import junit.framework.Test;
 // import junit.framework.TestCase;

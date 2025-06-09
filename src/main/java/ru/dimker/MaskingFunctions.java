@@ -1,4 +1,4 @@
-package com.alfa;
+package ru.dimker;
 
 import java.time.LocalDate;
 import java.util.*;
