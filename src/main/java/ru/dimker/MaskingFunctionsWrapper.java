@@ -7,7 +7,7 @@ import java.sql.Date;
 import java.time.LocalDate;
 import java.util.Map;
 import java.util.function.BiFunction;
-import com.alfa.MaskingFunctions;
+import ru.dimker.MaskingFunctions;
 
 
 public class MaskingFunctionsWrapper {
